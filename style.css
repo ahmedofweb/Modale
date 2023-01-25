@@ -68,6 +68,7 @@ btn{
 }
 .close-btn img{
     display: flex;
+    z-index: 10;
 }
 .modal-title{
     margin-bottom: 15px;
