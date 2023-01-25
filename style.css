@@ -93,7 +93,7 @@ btn{
     body{
         font-family: 'Varela' sans-serif;
         height: 100vh;
-        background:linear-gradient(rgba(0,0,0, 0.2), rgba(0,0,0, 0.2)), url('./bmwM5Mobile.jpg');
+        background:linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)), url('./bmwM5Mobile.jpg');
         background-repeat: no-repeat;
         background-size: cover;
     }
