@@ -15,10 +15,9 @@ const removeHidden = () => {
 }
 
 showBtn.addEventListener("click", removeHidden)
-
 closeBtn.addEventListener("click", addHidden)
-
 ovr.addEventListener("click", addHidden)
+
 document.addEventListener("keydown", (e) => {
     if (e.key == "Escape"){
         addHidden()
